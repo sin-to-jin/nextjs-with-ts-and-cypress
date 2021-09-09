@@ -13,3 +13,9 @@ yarn dev
 ```tsx
 yarn run cypress
 ```
+
+### Kill cypress process
+
+```tsx
+yarn run kill:cypress
+```
