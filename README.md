@@ -15,6 +15,7 @@ yarn run cypress
 ```
 
 ### Kill cypress process
+for Mac OS
 
 ```tsx
 yarn run kill:cypress
